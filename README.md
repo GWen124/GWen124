@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/GWen124">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GWen124&theme=gruvbox&show_icons=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GWen124&theme=graywhite&show_icons=true" />
     </a>
 </p>
