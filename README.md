@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/GWen124">
+<img alt="🦑" align="center" width="800px" src="https://github.com/GWen124/GWen124/blob/main/Transformers-Autobots-PNG-Picture.png">
+    </a>
+</p>
+
 <p>
   <h1 align="center">
     <b>Hi 👋, I'm <a href="https://github.com/GWen124">GWen</a> </b>
