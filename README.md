@@ -1,6 +1,6 @@
-<p align="center" width="800px">
+<p align="center">
   <a href="https://github.com/GWen124">
-<img alt="🦑" src="https://github.com/GWen124/GWen124/blob/main/Transformers-Autobots-PNG-Picture.png">
+    <img alt="Metrics" src="https://github.com/GWen124/GWen124/blob/main/Transformers-Autobots-PNG-Picture.png" />
     </a>
 </p>
 
