@@ -80,7 +80,7 @@ jobs:
           plugin_languages_threshold: 0%
 
 #代码行改变
-          plugin_lines: yes
+          #plugin_lines: yes
 
 #夜巡
           #plugin_nightscout: yes
