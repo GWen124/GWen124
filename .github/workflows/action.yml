@@ -4,7 +4,6 @@ on:
     - cron: "0 0 * * *"
   watch:
     types: started
-#每天上午六点更新    
   push:
     branches: "master"
   workflow_dispatch:
