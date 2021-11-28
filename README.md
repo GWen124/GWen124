@@ -10,4 +10,4 @@
 
 | <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GWen124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWen124&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- |  ------------- | 
-| <a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://raw.githubusercontent.com/GWen124/GWen124/master/metrics.svg"></a>|<a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://raw.githubusercontent.com/GWen124/GWen124/master/metrics.additional.svg"></a>|
+| <a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://github.com/GWen124/GWen124/blob/master/metrics.svg"></a>|<a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://github.com/GWen124/GWen124/blob/master/metrics.additional.svg"></a>|
