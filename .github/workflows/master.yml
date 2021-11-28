@@ -64,8 +64,8 @@ jobs:
           #plugin_introduction: yes
           #plugin_introduction_title: yes
 #提交日历		  
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          #plugin_isocalendar: yes
+          #plugin_isocalendar_duration: half-year
 
 #最常用的语言
           plugin_languages: yes
