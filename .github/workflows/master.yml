@@ -58,7 +58,7 @@ jobs:
           #plugin_followup_sections: repositories
 
 # 要点
-          #plugin_gists: yes
+          plugin_gists: yes
 
 # 编码习惯
           #plugin_habits: yes
@@ -71,8 +71,8 @@ jobs:
           #plugin_introduction_title: yes
 
 # 提交日历
-          #plugin_isocalendar: yes
-          #plugin_isocalendar_duration: half-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
 # 最常用的语言
           plugin_languages: yes
@@ -97,13 +97,13 @@ jobs:
           #plugin_music_user: .user.login
 
 # 夜巡
-          #plugin_nightscout: yes
-          #plugin_nightscout_datapoints: 12
-          #plugin_nightscout_highalert: 180
-          #plugin_nightscout_lowalert: 80
-          #plugin_nightscout_urgenthighalert: 250
-          #plugin_nightscout_urgentlowalert: 50
-          #plugin_nightscout_url: https://example.herokuapp.com
+          plugin_nightscout: yes
+          plugin_nightscout_datapoints: 12
+          plugin_nightscout_highalert: 180
+          plugin_nightscout_lowalert: 80
+          plugin_nightscout_urgenthighalert: 250
+          plugin_nightscout_urgentlowalert: 50
+          plugin_nightscout_url: https://example.herokuapp.com
 
 # 杰出贡献
           #plugin_notable: yes
@@ -136,10 +136,10 @@ jobs:
           #plugin_reactions_limit_issues: 100
 
 # 存储库
-          #plugin_repositories: 100
-          #plugin_repositories: yes
-          #plugin_repositories_affiliations: owner
-          #plugin_repositories_batch: 100
+          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
 
 # RSS订阅
           #plugin_rss: yes
