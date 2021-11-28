@@ -90,11 +90,11 @@ jobs:
           #plugin_lines: yes
 
 # 音乐插件
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: .user.login
+          #plugin_music: yes
+          #plugin_music_limit: 4
+          #plugin_music_time_range: short
+          #plugin_music_top_type: tracks
+          #plugin_music_user: .user.login
 
 # 夜巡
           #plugin_nightscout: yes
@@ -110,8 +110,8 @@ jobs:
           #plugin_notable_from: organization
 
 # 网站表演
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          #plugin_pagespeed: yes
+          #plugin_pagespeed_url: .user.website
 
 # 人物插件
           #plugin_people: yes
