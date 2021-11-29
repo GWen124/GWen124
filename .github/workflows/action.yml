@@ -1,10 +1,9 @@
-name: GitHub metrics
+name: GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
   watch:
     types: started
-#每天上午六点更新    
   push:
     branches: "master"
   workflow_dispatch:
@@ -30,14 +29,20 @@ jobs:
           plugin_traffic: yes
 
           plugin_followup: yes
+          plugin_followup_sections: repositories
 
           plugin_pagespeed: no
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: 
+  
           plugin_people: yes
-          plugin_people_types: followers, following
+#          plugin_people_types: followers, following
+          plugin_people_types: followers
           plugin_people_limit: 28
           plugin_people_size: 28
+
+          
+          
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@master
         with:
@@ -62,3 +67,9 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_mode: mastered
+          
+#          plugin_people: yes
+#          plugin_people_types: followers, following
+#          plugin_people_types: followin
+#          plugin_people_limit: 28
+#          plugin_people_size: 28
