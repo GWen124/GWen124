@@ -64,4 +64,8 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
           
+          plugin_people: yes
+#          plugin_people_types: followers, following
           plugin_people_types: followin
+          plugin_people_limit: 28
+          plugin_people_size: 28
