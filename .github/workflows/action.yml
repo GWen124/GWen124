@@ -19,7 +19,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: GWen124
           config_timezone: Asia/Anhui
-          config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
+          config_order: base.header, isocalendar, base.repositories, followup, pagespeed #, people
           config_padding: 10%
           use_prebuilt_image: master
           base: "header, repositories"
