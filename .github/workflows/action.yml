@@ -1,7 +1,9 @@
-name: GitHub metrics
+name: GitHub Metrics
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
+  watch:
+    types: started
   push:
     branches: "master"
   workflow_dispatch:
@@ -16,8 +18,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: GWen124
-          config_timezone: Asia/Shanghai
-          config_order: base.header, isocalendar, base.repositories, followup, pagespeed
+          config_timezone: Asia/Anhui
+          config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
           config_padding: 10%
           use_prebuilt_image: master
           base: "header, repositories"
@@ -27,14 +29,18 @@ jobs:
           plugin_traffic: yes
 
           plugin_followup: yes
+          plugin_followup_sections: repositories
 
           plugin_pagespeed: no
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: 
+  
           plugin_people: yes
+#          plugin_people_types: followers, following
           plugin_people_types: followers
           plugin_people_limit: 28
           plugin_people_size: 28
+
           
           
       - name: Personal metrics (additional)
@@ -44,8 +50,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: GWen124
-          config_timezone: Asia/Shanghai
-          config_order: habits, stargazers, languages, stargazers, topics, people
+          config_timezone: Asia/Anhui
+          config_order: habits, stargazers, languages, stargazers, topics
           config_padding: 10%
           use_prebuilt_image: master
           base: ""
@@ -61,5 +67,9 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_mode: mastered
-
-  
+          
+#          plugin_people: yes
+#          plugin_people_types: followers, following
+#          plugin_people_types: followin
+#          plugin_people_limit: 28
+#          plugin_people_size: 28
