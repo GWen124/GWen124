@@ -20,4 +20,4 @@
 | ------------- |  ------------- | 
 | <a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://github.com/GWen124/GWen124/blob/master/metrics.svg"></a>|<a href="https://github.com/GWen124"><img alt="🦑" width="400px" src="https://github.com/GWen124/GWen124/blob/master/metrics.additional.svg"></a>|
 
-<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashutosh&#39; s github activity graph" src="https://activity-graph.herokuapp.com/graph?username=GWen124&amp;bg_color=fefefe&amp;color=000000&amp;line=4bc0c8&amp;point=feac5e&amp;area=true&amp;hide_border=true"/></a></p>
+<p align="center"><a href="https://github.com/GWen124"><img alt="Ashutosh&#39; s github activity graph" src="https://activity-graph.herokuapp.com/graph?username=GWen124&amp;bg_color=fefefe&amp;color=000000&amp;line=4bc0c8&amp;point=feac5e&amp;area=true&amp;hide_border=true"/></a></p>
