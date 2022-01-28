@@ -1,10 +1,14 @@
 <!-- Config files for my GitHub profile. -->
-<p align="center">
-  <a href="https://github.com/GWen124">
-    <img alt="🦑" width="800px" src="https://raw.githubusercontent.com/GWen124/GWen124/master/Transformers-Autobots-PNG-Picture.png" />
-    </a>
-</p> 
-| ------------------------------ | 
+#<p align="center">
+#  <a href="https://github.com/GWen124">
+#    <img alt="🦑" width="800px" src="https://raw.githubusercontent.com/GWen124/GWen124/master/Transformers-Autobots-PNG-Picture.png" />
+#    </a>
+#</p> 
+
+
+
+| <img alt="🦑" width="800px" src="https://raw.githubusercontent.com/GWen124/GWen124/master/Transformers-Autobots-PNG-Picture.png" /> | 
+| ------------------------------ |  
 
 
 <!--
