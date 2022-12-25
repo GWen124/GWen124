@@ -26,8 +26,4 @@
 
 
 
-<!--
 
-<a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWen124&layout=compact&theme=graywhite&hide_border=true" /></a>
-
--->
