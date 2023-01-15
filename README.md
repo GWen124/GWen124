@@ -8,7 +8,7 @@
 </p>
 -->
 
-<a href="https://github.com/GWen124"><img alt="🦑" align="center" src="https://blog.gwen.ink/img.jpg"></a> 
+<a href="https://github.com/GWen124"><img alt="🦑" align="center" src="https://raw.githubusercontent.com/GWen124/GWen124/master/Image/Wallpaper/architecture-2562552.jpg"></a> 
 
 
 <!--
