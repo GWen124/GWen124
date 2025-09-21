@@ -1,10 +1,6 @@
 <!-- Config files for my GitHub profile. -->
 
-Hi 👋, I'm waynesg<br><br>
-<a href="https://gw124.top"><img src="https://img.shields.io/badge/Home-点击进入-0078D7.svg"></a>
-<a href="https://blog.gw124.top"><img src="https://img.shields.io/badge/Blog-点击进入-FF6600.svg"></a>
-<a href="https://t.me/WenGe124_Bot"><img src="https://img.shields.io/badge/Telegram-点击联系-26A5E4.svg"></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaynesg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false">
+Hi 👋, I'm GWen [![](https://img.shields.io/badge/Home-点击进入-0078D7.svg)](https://gw124.top) [![](https://img.shields.io/badge/Blog-点击进入-FF6600.svg)](https://blog.gw124.top) [![](https://img.shields.io/badge/Telegram-点击联系-26A5E4.svg)](https://t.me/WenGe124_Bot) ![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaynesg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 ![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaynesg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
