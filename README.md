@@ -1,7 +1,7 @@
 <!-- Config files for my GitHub profile. -->
 
-<h1>Hi 👋, I'm waynesg</h1>
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
+<h1>Hi 👋, I'm waynesg</h1>
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 [![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top)
 [![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
