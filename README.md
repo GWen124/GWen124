@@ -47,7 +47,7 @@
 
 
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
-![Visitors](https://img.shields.io/badge/Visitors-1234-1E90FF?style=flat-square&labelColor=000000)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge)
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 [![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top)
 [![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
