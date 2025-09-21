@@ -51,28 +51,6 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=GWen124-visitor-badge)](https://github.com/GWen124?tab=repositories) 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top) 
 [![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top) 
-[![](https://img.shields.io/badge/TG-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
-
-[![](https://img.shields.io/badge/Home-点击进入-blue.svg)](https://gw124.top) 
-[![](https://img.shields.io/badge/Blog-点击进入-green.svg)](https://blog.gw124.top) 
-[![](https://img.shields.io/badge/Telegram-点击联系-ff69b4.svg)](https://t.me/WenGe124_Bot)
-
-[![](https://img.shields.io/badge/Home-进入-blue?logo=windows&logoColor=white)](https://gw124.top) 
-[![](https://img.shields.io/badge/Blog-阅读-green?logo=ghost&logoColor=white)](https://blog.gw124.top) 
-[![](https://img.shields.io/badge/Telegram-联系-blue?logo=telegram&logoColor=white)](https://t.me/WenGe124_Bot)
-
-[![](https://img.shields.io/badge/Home-进入-1f2937?style=flat-square&logo=firefox&logoColor=white)](https://gw124.top) 
-[![](https://img.shields.io/badge/Blog-阅读-1f2937?style=flat-square&logo=bookstack&logoColor=white)](https://blog.gw124.top) 
-[![](https://img.shields.io/badge/Telegram-联系-1f2937?style=flat-square&logo=telegram&logoColor=white)](https://t.me/WenGe124_Bot)
-
-<a href="https://gw124.top" target="_blank">
-  <img src="https://img.shields.io/badge/Home-点击进入-blue.svg" />
-</a>
-<a href="https://blog.gw124.top" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-点击进入-green.svg" />
-</a>
-<a href="https://t.me/WenGe124_Bot" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-点击联系-ff69b4.svg" />
-</a>
+[![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
 
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
