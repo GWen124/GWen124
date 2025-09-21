@@ -1,11 +1,6 @@
 <!-- Config files for my GitHub profile. -->
 
-<span style="font-size:11px; line-height:20px; vertical-align:middle;">Hi 👋, I'm GWen</span>
-<a href="https://gw124.top"><img src="https://img.shields.io/badge/Home-点击进入-0078D7.svg" style="vertical-align:middle;"></a>
-<a href="https://blog.gw124.top"><img src="https://img.shields.io/badge/Blog-点击进入-FF6600.svg" style="vertical-align:middle;"></a>
-<a href="https://t.me/WenGe124_Bot"><img src="https://img.shields.io/badge/Telegram-点击联系-26A5E4.svg" style="vertical-align:middle;"></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaynesg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" style="vertical-align:middle;">
-
+<h1>Hi 👋, I'm GWen</h1>
 
 
 | <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GWen124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124) |
