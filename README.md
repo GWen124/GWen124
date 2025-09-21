@@ -42,13 +42,13 @@
 
 <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWen124&layout=compact&theme=graywhite&hide_border=true" /></a>
 
+[![](https://visitor-badge.glitch.me/badge?page_id=GWen124-visitor-badge)](https://github.com/GWen124?tab=repositories) 
 
 -->
 
 
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
 
-[![](https://visitor-badge.glitch.me/badge?page_id=GWen124-visitor-badge)](https://github.com/GWen124?tab=repositories) 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top) 
 [![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top) 
 [![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
