@@ -1,6 +1,6 @@
 <!-- Config files for my GitHub profile. -->
 
-<span style="font-size:14px; line-height:20px; vertical-align:middle;">Hi 👋, I'm GWen</span>
+<span style="font-size:11px; line-height:20px; vertical-align:middle;">Hi 👋, I'm GWen</span>
 <a href="https://gw124.top"><img src="https://img.shields.io/badge/Home-点击进入-0078D7.svg" style="vertical-align:middle;"></a>
 <a href="https://blog.gw124.top"><img src="https://img.shields.io/badge/Blog-点击进入-FF6600.svg" style="vertical-align:middle;"></a>
 <a href="https://t.me/WenGe124_Bot"><img src="https://img.shields.io/badge/Telegram-点击联系-26A5E4.svg" style="vertical-align:middle;"></a>
