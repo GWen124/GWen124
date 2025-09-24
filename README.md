@@ -1,11 +1,10 @@
 <!-- Config files for my GitHub profile. -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
 
 
 
-| <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GWen124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124) |
+| <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GWen124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124) |
 | ------------- |  ------------- | 
 | <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/GWen124/blob/master/metrics.svg"></a>|<a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/GWen124/blob/master/metrics.additional.svg"></a>|
 
