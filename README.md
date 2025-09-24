@@ -1,7 +1,7 @@
 <!-- Config files for my GitHub profile. -->
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
 
 
 
