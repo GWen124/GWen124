@@ -1,12 +1,6 @@
 <!-- Config files for my GitHub profile. -->
 
-<a href="https://github.com/GWen124">
-  <img alt="🦑" src="https://cdn.jsdelivr.net/gh/GWen124/GWen124/metrics.svg">
-</a>
-|
-<a href="https://github.com/GWen124">
-  <img alt="🦑" src="https://cdn.jsdelivr.net/gh/GWen124/GWen124/metrics.additional.svg">
-</a>
+
 
 
 
