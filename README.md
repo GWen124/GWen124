@@ -2,8 +2,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
