@@ -5,6 +5,7 @@
 
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
+| <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a> |
 
 
 
