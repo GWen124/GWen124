@@ -7,6 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake.svg" />
 </picture> |
+
 | ------------- | 
 
 
