@@ -24,11 +24,7 @@
 
 
 
-<p>
-  <h1 align="center">
-    <b>Hi 👋, I'm <a href="https://github.com/GWen124">GWen</a> </b>
-  </h1>
-</p>
+
 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 &nbsp;&nbsp;
