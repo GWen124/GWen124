@@ -2,13 +2,13 @@
 | ------------- |  ------------- | 
 
 
-| <picture>
+| <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
+| ------------------------------ | 
+|<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake.svg" />
-</picture> |
-
-| ------------- |  ------------- | 
+</picture>|
 
 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
