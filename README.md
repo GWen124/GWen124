@@ -5,7 +5,7 @@
 
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
+
 
 
 
