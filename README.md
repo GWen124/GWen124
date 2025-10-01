@@ -5,7 +5,14 @@
 
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
+
+
+
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
+-->
 
 
 
@@ -16,6 +23,12 @@
 </picture>
 
 
+
+<p>
+  <h1 align="center">
+    <b>Hi 👋, I'm <a href="https://github.com/GWen124">GWen</a> </b>
+  </h1>
+</p>
 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 &nbsp;&nbsp;
