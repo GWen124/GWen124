@@ -25,9 +25,9 @@
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 
-<!-- 贪吃蛇蛇贡献图
+<!-- 贪吃蛇蛇贡献图 -->
  <p align="center"><img alt="github-snake" src="https://github.com/GWen124/GWen124/blob/main/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
- -->
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
