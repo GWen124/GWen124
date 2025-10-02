@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=280&section=header&text=你好，访客！&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
-
+-->
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
--->
+
 
 
 
