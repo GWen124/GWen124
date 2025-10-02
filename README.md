@@ -4,7 +4,7 @@
 </p>
 -->
 
-
+<!-- GitHub 3D 活动图 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
@@ -25,13 +25,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
 -->
 
-
 <!-- GitHub 活动图 -->
-<p align="center">
-  <a href="https://github.com/GWen124">
-    <img alt="GWen124's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/>
-  </a>
-</p>
+| <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
+| ------------------------------ | 
 
 <!-- 蛇形贡献图 -->
 <p align="center">
