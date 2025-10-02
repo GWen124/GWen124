@@ -30,9 +30,8 @@
 | ------------------------------ | 
 
 <!-- 蛇形贡献图 -->
-<p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake.svg" />
-</p>
+| <p align="center"><img alt="github-snake" src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake.svg" /></p> |
+| ------------------------------ | 
 
 
 
