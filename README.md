@@ -29,7 +29,7 @@
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
 <!-- 贪吃蛇蛇贡献图 -->
- <p align="center"><img alt="github-snake" src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
+ <p align="center"><img alt="github-snake" src="https://github.com/GWen124/GWen124/blob/main/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
 
 
 
