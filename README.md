@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
+-->
+
 
 <a href="https://github.com/GWen124/"><img src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
 
