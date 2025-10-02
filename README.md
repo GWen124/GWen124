@@ -44,53 +44,7 @@
 </p>
 
 
-<footer class="footer">
-  <div class="footer-line">© 2020 <a href="https://icons.gw124.top/" target="_blank" rel="noopener noreferrer" class="link-green">ICONS.GW124.TOP</a>｜By <a href="https://gw124.top/" target="_blank" rel="noopener noreferrer" class="link-green">Wen</a></div>
-  <style>
-    .footer {
-      margin-top: auto;
-      padding: 1.5rem;
-      text-align: center;
-      font-family: -apple-system, BlinkMacSystemFont, "SF Pro SC", "PingFang SC", "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans SC", "Microsoft YaHei", Arial, sans-serif;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-      font-weight: 500;
-      letter-spacing: 0.2px;
-      position: relative;
-    }
-    .footer .footer-line {
-      color: #000000; /* 黑色文字 */
-      font-size: 0.9rem;
-      margin: 0;
-      letter-spacing: 0.5px;
-      line-height: 1.5;
-      text-shadow: none; /* 移除阴影，避免发灰 */
-    }
-    .footer .link-green {
-      color: #000000; /* 黑色链接 */
-      text-decoration: none;
-      transition: color .2s ease;
-      font-weight: 500;
-      text-underline-offset: 2px;
-      position: relative;
-    }
-    .footer .link-green::after {
-      content: "";
-      position: absolute;
-      left: 0; right: 0; bottom: -1px;
-      height: 1px; border-radius: 2px;
-      background-color: #000; /* 改为纯黑色下划线 */
-      transform: scaleX(0);
-      transform-origin: center;
-      transition: transform .25s ease;
-    }
-    .footer .link-green:hover::after { transform: scaleX(1); }
-    .footer .link-green:first-of-type,
-    .footer .link-green:last-of-type {
-      font-weight: 600; text-transform: uppercase; letter-spacing: .4px;
-    }
-  </style>
-</footer>
+
 
 ![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
