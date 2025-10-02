@@ -5,14 +5,6 @@
 -->
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
-</p> 
-
-
-
-<!-- GitHub 3D 活动图 -->
-<a href="https://github.com/GWen124/"><img src="https://github.com/GWen124/GWen124/blob/main/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
 
 
 
@@ -36,6 +28,14 @@
  <p align="center"><img alt="github-snake" src="https://github.com/GWen124/GWen124/blob/main/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
  -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
+</p> 
+
+
+
+<!-- GitHub 3D 活动图 -->
+<a href="https://github.com/GWen124/"><img src="https://github.com/GWen124/GWen124/blob/main/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
 
 
 
