@@ -29,7 +29,8 @@
 <!-- GitHub 活动图 -->
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
-
+| <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div> |
+| ------------------------------ | 
 
 
 
@@ -44,7 +45,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p> -->
 
-<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 
 ![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
