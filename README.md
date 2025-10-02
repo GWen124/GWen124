@@ -46,7 +46,7 @@
 
 
 
- <p align="center"> <img src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif /> </p>
+![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
 
 
 ---
