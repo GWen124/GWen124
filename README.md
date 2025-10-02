@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
-</p>
 
-<a href="https://github.com/GWen124/"><img src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
 
 
 
@@ -14,10 +6,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=280&section=header&text=你好，访客！&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
-
-
-<a href="https://github.com/GWen124/"><img src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
-
 
 
 
@@ -34,6 +22,16 @@
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GWen124&theme=github-light"/></a> |
 | ------------------------------ | 
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
+</p>
+
+<a href="https://github.com/GWen124/"><img src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
 
 
 <picture>
