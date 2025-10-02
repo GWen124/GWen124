@@ -5,7 +5,12 @@
 -->
 
 
-
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
 
 
 
@@ -13,9 +18,9 @@
 | ------------- |  ------------- | 
 
 
-<!--
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
--->
+
 
 
 <!-- GitHub 活动图 -->
