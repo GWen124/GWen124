@@ -7,7 +7,7 @@
 <!-- GitHub 3D 活动图 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
-</p>
+</p>        -->
 
 
 
