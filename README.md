@@ -1,18 +1,22 @@
-
-
-
-
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=280&section=header&text=你好，访客！&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
+-->
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=120&section=header&fontSize=70&fontAlignY=35&animation=twinkling" />
+</p>
+
+<a href="https://github.com/GWen124/"><img src="https://raw.githubusercontent.com/GWen124/GWen124/refs/heads/master/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
 
 
 
 
 | <a href="https://github.com/GWen124"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GWen124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124) |
 | ------------- |  ------------- | 
+
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GWen124&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/GWen124)
