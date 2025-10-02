@@ -30,6 +30,13 @@
 | ------------------------------ | 
 
 
+[![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top)
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
+&nbsp;&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge)
 
 
 <picture>
@@ -40,13 +47,6 @@
 
 
 
-[![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
-&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg)](https://blog.gw124.top)
-&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
-&nbsp;&nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge)
 
 
 
