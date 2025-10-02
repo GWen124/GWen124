@@ -32,7 +32,9 @@
 
 
 
-
+<!-- 贪吃蛇蛇贡献图 -->
+ <p align="center"><img alt="github-snake" src="https://github.com/GWen124/GWen124/blob/main/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
+ -->
 
 
 
@@ -48,8 +50,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
-<!-- 贪吃蛇蛇贡献图 -->
- <p align="center"><img alt="github-snake" src="https://github.com/GWen124/GWen124/blob/main/Generate%20Snake/github-contribution-grid-snake.svg" /></p> 
 
 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
