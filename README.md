@@ -11,7 +11,7 @@
 
 
 
-<a href="https://github.com/GWen124/"><img src="https://github.com/GWen124/GWen124/blob/main/3D%20Contribution%20Graph/profile-south-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
+<a href="https://github.com/GWen124/"><img src="https://github.com/GWen124/GWen124/blob/main/3D%20Contribution%20Graph/profile-season-animate.svg" alt="3D GitHub Profile" width="100%"/></a>
 
 
 
