@@ -39,18 +39,14 @@
 
 
 
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
 
+
+
+ <p align="center"><img src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif /></p>
 ---
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 &emsp;&emsp;&emsp;
