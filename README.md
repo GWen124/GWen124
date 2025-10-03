@@ -65,27 +65,18 @@
 [![](https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg)](https://t.me/WenGe124_Bot)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge)
--->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://gw124.top">
-        <img src="https://img.shields.io/badge/Home-点击进入-FFFFFF.svg" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://blog.gw124.top">
-        <img src="https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/WenGe124_Bot">
-        <img src="https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge" />
-    </td>
-  </tr>
-</table>
+ -->
+
+<p align="center">
+  <a href="https://gw124.top">
+    <img src="https://img.shields.io/badge/Home-点击进入-FFFFFF.svg" />
+  </a>
+  <a href="https://blog.gw124.top">
+    <img src="https://img.shields.io/badge/Blog-点击进入-FFFFFF.svg" />
+  </a>
+  <a href="https://t.me/WenGe124_Bot">
+    <img src="https://img.shields.io/badge/Telegram-点击联系-FFFFFF.svg" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge" />
+</p>
 ![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
