@@ -55,8 +55,10 @@
 
 
 
- <!-- Footer信息 -->
+<!-- gif特效分割线 -->
 ![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
+
+<!-- Footer信息 -->
 <!-- 
 [![](https://img.shields.io/badge/Home-点击进入-FFFFFF.svg)](https://gw124.top)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -80,4 +82,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GWen124.visitor-badge" />
 </p>
 
+<!-- gif特效分割线 -->
 ![](https://raw.githubusercontent.com/GWen124/Script/master/Image/img/115834477.gif)
