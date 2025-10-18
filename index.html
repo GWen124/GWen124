@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NavHub</title>
+    
+    <!-- 预加载字体，避免字体闪烁 -->
+    <link rel="preload" href="./fonts/AnJingChenXinShouJinTi.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/brand.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-Cu.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-ZhongCu.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-Xi.ttf" as="font" type="font/ttf" crossorigin>
+    
+    <!-- 预定义字体样式，避免 FOUT -->
+    <style>
+      @font-face {
+        font-family: 'AnJingChenXinShouJinTi';
+        src: url('fonts/AnJingChenXinShouJinTi.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: block; /* 改为 block 避免字体闪烁 */
+      }
+      @font-face {
+        font-family: 'brand';
+        src: url('fonts/brand.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: block; /* 改为 block 避免字体闪烁 */
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-Cu';
+        src: url('fonts/SanJiZhengYaHei-Cu.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: block; /* 改为 block 避免字体闪烁 */
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-ZhongCu';
+        src: url('fonts/SanJiZhengYaHei-ZhongCu.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: block; /* 改为 block 避免字体闪烁 */
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-Xi';
+        src: url('fonts/SanJiZhengYaHei-Xi.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: block; /* 改为 block 避免字体闪烁 */
+      }
+      
+      /* 预设字体变量，避免字体闪烁 */
+      :root {
+        --header-font-family: 'AnJingChenXinShouJinTi', 'brand', system-ui, sans-serif;
+        --header-font-b-family: 'brand', system-ui, sans-serif;
+        --category-font-family: 'SanJiZhengYaHei-ZhongCu', 'Arial', sans-serif;
+        --site-font-family: 'SanJiZhengYaHei-Xi', 'Arial', sans-serif;
+        --footer-font-family: 'brand', system-ui, sans-serif;
+        --sidebar-font-family: 'SanJiZhengYaHei-ZhongCu', system-ui, sans-serif;
+      }
+    </style>
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- 立即应用字体配置，避免字体闪烁 -->
+    <script>
+      // 页面加载时立即应用字体，不等待 Vue 组件
+      document.addEventListener('DOMContentLoaded', function() {
+        // 立即设置字体变量，避免字体闪烁
+        const root = document.documentElement;
+        
+        // 设置默认字体变量（基于 config.yml 中的配置）
+        root.style.setProperty('--header-font-family', 'AnJingChenXinShouJinTi, brand, system-ui, sans-serif');
+        root.style.setProperty('--header-font-b-family', 'brand, system-ui, sans-serif');
+        root.style.setProperty('--category-font-family', 'SanJiZhengYaHei-ZhongCu, Arial, sans-serif');
+        root.style.setProperty('--site-font-family', 'SanJiZhengYaHei-Xi, Arial, sans-serif');
+        root.style.setProperty('--footer-font-family', 'brand, system-ui, sans-serif');
+        root.style.setProperty('--sidebar-font-family', 'SanJiZhengYaHei-ZhongCu, system-ui, sans-serif');
+      });
+    </script>
+    <style>
+      html, body {
+        background-color: transparent;
+        margin: 0;
+        padding: 0;
+      }
+      
+      /* 滚动条样式 - 完全隐藏，保留滚动功能 */
+      ::-webkit-scrollbar {
+        width: 0px !important;
+        display: none !important;
+      }
+      
+      html {
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+      }
+      
+      body {
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-DU42h89a.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/vendor-CDuIfXrh.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-Bm9P0Qoe.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
