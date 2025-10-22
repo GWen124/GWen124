@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "Favorites - 常用网站",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/ChatGPT Web.png"
+      },
+      {
+        "name": "DeepSeek",
+        "url": "https://chat.deepseek.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/DeepSeek.png"
+      },
+      {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/Google.png"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/GWen124",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/GitHub_A.png"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Youtube.png"
+      },
+      {
+        "name": "CloudFlare",
+        "url": "https://www.cloudflare.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Cloudflare.png"
+      },
+      {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Bilibili.png"
+      },
+      {
+        "name": "抖音",
+        "url": "https://douyin.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Tiktok_A.png"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Tiktok_A.png"
+      },
+      {
+        "name": "起点中文网",
+        "url": "https://www.qidian.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/QiDian.png"
+      },
+      {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/ZhiHu.png"
+      }
+    ]
+  },
+  {
+    "name": "Local Services - 本地服务",
+    "hidden": true,
+    "requireAuth": true,
+    "sites": [
+      {
+        "name": "ImmortalWrt",
+        "url": "http://10.10.10.1",
+        "urls": [
+          "http://gw124.cn:8000",
+          "https://openwrt.19880124.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/OpenWrt_C.png"
+      },
+      {
+        "name": "Mercury",
+        "url": "http://10.10.10.2",
+        "urls": [
+          "http://10.18.18.251",
+          ""
+        ],
+        "icon": "xicon:MediumM"
+      },
+      {
+        "name": "Mi WiFi",
+        "url": "http://10.10.10.3",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/Xiaomi.jpeg"
+      },
+      {
+        "name": "ImmortalWrt｜DockerCopilot",
+        "url": "http://10.10.10.1:12712",
+        "urls": [
+          "http://gw124.cn:12712",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DockerCopilot_B.png"
+      },
+      {
+        "name": "ImmortalWrt｜Sub-Store",
+        "url": "http://10.10.10.1:3001?api=http://10.10.10.1:3001/9708281",
+        "urls": [
+          "http://gw124.cn:3101/subs?api=http://gw124.cn:3101/9708281",
+          "https://substore.19880124.xyz/subs?api=https://substore.19880124.xyz/9708281"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/Sub Store.png"
+      },
+      {
+        "name": "ImmortalWrt｜OpenClash",
+        "url": "http://10.10.10.1:9090/ui/metacubexd/#/overview",
+        "urls": [
+          "http://gw124.cn:9090/ui/metacubexd/#/overview",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/yacd.png"
+      },
+      {
+        "name": "ImmortalWrt｜CloudDrive",
+        "url": "http://10.10.10.1:19798",
+        "urls": [
+          "http://gw124.cn:19798",
+          "https://clouddrive.gw124.top/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Clouddrive_A.png"
+      },
+      {
+        "name": "ImmortalWrt｜SyMedia",
+        "url": "http://10.10.10.1:8095",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Symedia_D_A.png"
+      },
+      {
+        "name": "ImmortalWrt｜Redia",
+        "url": "http://10.10.10.1:9025",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Redia_2_1.png"
+      },
+      {
+        "name": "ImmortalWrt｜Sun Panel",
+        "url": "http://10.10.10.1:3333",
+        "urls": [
+          "http://gw124.cn:3333/",
+          "https://index.19880124.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Sunpanel_A.png"
+      },
+      {
+        "name": "ImmortalWrt｜EmbyMedia",
+        "url": "http://10.10.10.1:8096/",
+        "urls": [
+          "http://gw124.cn:1096/",
+          "https://media.9708281.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Emby_A.png"
+      },
+      {
+        "name": "Synology｜Wen",
+        "url": "http://10.10.10.11:5000",
+        "urls": [
+          "https://nas.19880124.xyz/",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Synology NAS/NAS.png"
+      },
+      {
+        "name": "Synology｜Vaultwarden",
+        "url": "http://10.10.10.11:1959",
+        "urls": [
+          "https://wen.gw124.top/",
+          "https://wen.19880124.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/Vaultwarden.png"
+      },
+      {
+        "name": "Synology｜DockerCopilot",
+        "url": "http://10.10.10.11:12712",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DockerCopilot_B.png"
+      },
+      {
+        "name": "Synology｜CloudDrive",
+        "url": "http://10.10.10.11:19798",
+        "urls": [
+          "https://clouddrive2.gw124.top/",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Clouddrive_A.png"
+      },
+      {
+        "name": "Synology｜qB-Wen",
+        "url": "http://10.10.10.11:8081",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Qbittorrent_A.png"
+      },
+      {
+        "name": "Synology｜SyMedia",
+        "url": "http://10.10.10.11:8095/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Symedia_D_A.png"
+      },
+      {
+        "name": "Synology｜Redia",
+        "url": "http://10.10.10.11:9025",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Redia_2_1.png"
+      },
+      {
+        "name": "Synology｜EmbyMedia",
+        "url": "http://10.10.10.11:8096/",
+        "urls": [
+          "http://gw124.cn:8098/",
+          "https://embymedia.19880124.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Emby_A.png"
+      },
+      {
+        "name": "Synology｜EmbySex",
+        "url": "http://10.10.10.11:8097/",
+        "urls": [
+          "http://gw124.cn:8099/",
+          "https://embysex.19880124.xyz/"
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Media Streaming/Emby_A.png"
+      },
+      {
+        "name": "Synology｜Download",
+        "url": "http://10.10.10.12:5000",
+        "urls": [
+          "https://dsm.19880124.xyz/",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Synology NAS/NAS.png"
+      },
+      {
+        "name": "Synology｜qB-Download",
+        "url": "http://10.10.10.12:8081",
+        "urls": [
+          "https://dsmqb.19880124.xyz/",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Qbittorrent_A.png"
+      }
+    ]
+  },
+  {
+    "name": "Hosted Services - 托管服务",
+    "hidden": true,
+    "requireAuth": true,
+    "sites": [
+      {
+        "name": "Oracle Seoul｜NPM",
+        "url": "http://seoul-oracle-arm.198812345.xyz:81",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Npm_C.png"
+      },
+      {
+        "name": "Oracle Tokyo｜NPM",
+        "url": "http://tokyo-oracle-arm.198812345.xyz:81/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Npm_C.png"
+      },
+      {
+        "name": "Oracle Seoul｜DockerCopilot",
+        "url": "http://seoul-oracle-arm.198812345.xyz:12712",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DockerCopilot_B.png"
+      },
+      {
+        "name": "Oracle Tokyo｜DockerCopilot",
+        "url": "http://tokyo-oracle-arm.198812345.xyz:12712",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DockerCopilot_B.png"
+      },
+      {
+        "name": "Oracle Seoul｜DDnsGo",
+        "url": "http://seoul-oracle-arm.198812345.xyz:9877/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DDNS.png"
+      },
+      {
+        "name": "Oracle Tokyo｜DDnsGo",
+        "url": "http://tokyo-oracle-arm.198812345.xyz:9877/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/DDNS.png"
+      }
+    ]
+  },
+  {
+    "name": "VPN - 虚拟专用网络",
+    "hidden": true,
+    "requireAuth": true,
+    "sites": [
+      {
+        "name": "Tailscale",
+        "url": "https://tailscale.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/Tailscale_A.png"
+      },
+      {
+        "name": "ZeroTier",
+        "url": "https://www.zerotier.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/Zerotier.png"
+      },
+      {
+        "name": "Oracle Seoul｜3XUI",
+        "url": "https://seoul-oracle-arm.198812345.xyz:2088/wen",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/3x-ui.png"
+      },
+      {
+        "name": "Oracle Tokyo｜3XUI",
+        "url": "https://tokyo-oracle-arm.198812345.xyz:2088/wen",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/3x-ui.png"
+      },
+      {
+        "name": "Racknerd Sanjose｜3XUI",
+        "url": "https://sanjose-racknerd.198812345.xyz:2088/wen",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/3x-ui.png"
+      },
+      {
+        "name": "Oracle Seoul｜HUI",
+        "url": "https://seoul-oracle-arm.198812345.xyz:8181/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/H-UI.png"
+      },
+      {
+        "name": "Oracle Tokyo｜HUI",
+        "url": "https://tokyo-oracle-arm.198812345.xyz:8181/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/H-UI.png"
+      },
+      {
+        "name": "Racknerd Sanjose｜HUI",
+        "url": "https://tokyo-oracle-arm.198812345.xyz:8181/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/H-UI.png"
+      }
+    ]
+  },
+  {
+    "name": "Built Services - 构建服务",
+    "hidden": true,
+    "requireAuth": true,
+    "sites": [
+      {
+        "name": "Home Page",
+        "url": "https://gw124.top",
+        "urls": [
+          "https://gwen124.github.io/HomePage",
+          ""
+        ],
+        "icon": "xicon:Home"
+      },
+      {
+        "name": "NavHub",
+        "url": "https://nav.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/NavHub",
+          ""
+        ],
+        "icon": "xicon:Compass"
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.gw124.top/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "xicon:Blog"
+      },
+      {
+        "name": "Image Gallery",
+        "url": "https://image.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/Gallery",
+          ""
+        ],
+        "icon": "xicon:Images"
+      },
+      {
+        "name": "Site Status",
+        "url": "https://sitestatus.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/Site-Status",
+          ""
+        ],
+        "icon": "xicon:Signal"
+      },
+      {
+        "name": "StatusLive",
+        "url": "https://statuslive.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/StatusLive",
+          ""
+        ],
+        "icon": "xicon:Server"
+      },
+      {
+        "name": "Markdown Editor",
+        "url": "https://md.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/Markdown-Online-Editor",
+          ""
+        ],
+        "icon": "xicon:Markdown"
+      },
+      {
+        "name": "Img Hub",
+        "url": "https://img.gw124.top/",
+        "urls": [
+          "",
+          ""
+        ],
+        "icon": "xicon:Image"
+      },
+      {
+        "name": "Icons Hub",
+        "url": "https://icons.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/IconsHub",
+          ""
+        ],
+        "icon": "xicon:Icons"
+      },
+      {
+        "name": "GitHub Proxy",
+        "url": "https://cdn.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/GitHub-Proxy",
+          ""
+        ],
+        "icon": "xicon:GithubSquare"
+      },
+      {
+        "name": "Short Link",
+        "url": "https://gw126.top/",
+        "urls": [
+          "https://gwen124.github.io/Url-Shorten-Worker",
+          ""
+        ],
+        "icon": "xicon:Paperclip"
+      },
+      {
+        "name": "Sublink Worker",
+        "url": "https://sublink.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/Sublink-Worker",
+          ""
+        ],
+        "icon": "xicon:NetworkWired"
+      },
+      {
+        "name": "2FA Auth",
+        "url": "https://2fa.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/2FA-Auth",
+          ""
+        ],
+        "icon": "xicon:Unlock"
+      },
+      {
+        "name": "DownGit",
+        "url": "http://downgit.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/DownGit",
+          ""
+        ],
+        "icon": "xicon:Download"
+      },
+      {
+        "name": "Global Time Overview",
+        "url": "https://gwen124.github.io/Global-Time-Overview",
+        "urls": [
+          "https://gwen124.github.io/",
+          ""
+        ],
+        "icon": "xicon:Clock"
+      },
+      {
+        "name": "Txt to Epub",
+        "url": "https://epub.gw124.top/",
+        "urls": [
+          "https://gwen124.github.io/Txt-to-Epub",
+          ""
+        ],
+        "icon": "xicon:FileExport"
+      }
+    ]
+  },
+  {
+    "name": "AI Tools - AI工具",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/ChatGPT Web.png"
+      },
+      {
+        "name": "DeepSeek",
+        "url": "https://chat.deepseek.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/DeepSeek.png"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://www.cursor.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/Cursor.png"
+      },
+      {
+        "name": "SiliconFlow",
+        "url": "https://cloud.siliconflow.cn/",
+        "icon": ""
+      },
+      {
+        "name": "腾讯混元",
+        "url": "https://hunyuan.tencent.com/",
+        "icon": "https://cdn-portal.hunyuan.tencent.com/public/static/logo/favicon.png"
+      },
+      {
+        "name": "秘塔",
+        "url": "https://metaso.cn/",
+        "icon": ""
+      },
+      {
+        "name": "FastGPT",
+        "url": "https://cloud.fastgpt.io/dashboard/apps",
+        "icon": "https://cdn.jsdelivr.net/gh/oliver556/my-icons@gh-pages/icon/AI/FastGPT.png"
+      },
+      {
+        "name": "Grok",
+        "url": "https://grok.com/",
+        "icon": ""
+      },
+      {
+        "name": "Claude",
+        "url": "https://claude.ai",
+        "icon": ""
+      },
+      {
+        "name": "Gemini",
+        "url": "https://gemini.google.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/Gemini.png"
+      },
+      {
+        "name": "Copilot",
+        "url": "https://github.com/features/copilot",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Github_C.png"
+      },
+      {
+        "name": "Midjourney",
+        "url": "https://midjourney.com",
+        "icon": ""
+      },
+      {
+        "name": "Runway",
+        "url": "https://runwayml.com",
+        "icon": ""
+      },
+      {
+        "name": "Notion AI",
+        "url": "https://notion.so/product/ai",
+        "icon": ""
+      },
+      {
+        "name": "Grammarly",
+        "url": "https://grammarly.com",
+        "icon": ""
+      },
+      {
+        "name": "Jasper",
+        "url": "https://jasper.ai",
+        "icon": ""
+      },
+      {
+        "name": "Copy.ai",
+        "url": "https://copy.ai",
+        "icon": ""
+      },
+      {
+        "name": "Perplexity",
+        "url": "https://perplexity.ai",
+        "icon": ""
+      },
+      {
+        "name": "Character.AI",
+        "url": "https://character.ai",
+        "icon": ""
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co",
+        "icon": ""
+      },
+      {
+        "name": "Replicate",
+        "url": "https://replicate.com",
+        "icon": ""
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://anthropic.com",
+        "icon": ""
+      },
+      {
+        "name": "Cohere",
+        "url": "https://cohere.ai",
+        "icon": ""
+      },
+      {
+        "name": "ElevenLabs",
+        "url": "https://elevenlabs.io",
+        "icon": ""
+      },
+      {
+        "name": "Synthesia",
+        "url": "https://synthesia.io",
+        "icon": ""
+      },
+      {
+        "name": "RunwayML",
+        "url": "https://runwayml.com",
+        "icon": ""
+      },
+      {
+        "name": "Pika Labs",
+        "url": "https://pika.art",
+        "icon": ""
+      },
+      {
+        "name": "LeiaPix",
+        "url": "https://convert.leiapix.com",
+        "icon": ""
+      },
+      {
+        "name": "Kaiber",
+        "url": "https://kaiber.ai",
+        "icon": ""
+      },
+      {
+        "name": "InVideo",
+        "url": "https://invideo.io",
+        "icon": ""
+      },
+      {
+        "name": "Luma AI",
+        "url": "https://lumalabs.ai",
+        "icon": ""
+      },
+      {
+        "name": "HeyGen",
+        "url": "https://heygen.com",
+        "icon": ""
+      },
+      {
+        "name": "D-ID",
+        "url": "https://d-id.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Online Tools - 在线工具",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "国家地理信息公共服务平台",
+        "url": "https://www.tianditu.gov.cn/",
+        "icon": ""
+      },
+      {
+        "name": "Google Map",
+        "url": "https://www.google.com/maps",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/Google Maps.png"
+      },
+      {
+        "name": "在线转换工具",
+        "url": "https://convertio.co",
+        "icon": ""
+      },
+      {
+        "name": "图片压缩",
+        "url": "https://tinypng.com",
+        "icon": ""
+      },
+      {
+        "name": "二维码生成",
+        "url": "https://cli.im",
+        "icon": ""
+      },
+      {
+        "name": "IP查询",
+        "url": "https://ip111.cn/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Ipw.cn_A.png"
+      },
+      {
+        "name": "Speedtest",
+        "url": "https://speedtest.net",
+        "icon": ""
+      },
+      {
+        "name": "Ping",
+        "url": "https://ping.pe/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Ipw.cn_A.png"
+      },
+      {
+        "name": "美国地址生成器",
+        "url": "https://www.meiguodizhi.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Uncategorized/Map_A.png"
+      },
+      {
+        "name": "IPv6 连接测试",
+        "url": "https://testipv6.cn/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Ipw.cn_A.png"
+      },
+      {
+        "name": "ITDOG",
+        "url": "https://www.itdog.cn/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Itdog.cn_A.png"
+      },
+      {
+        "name": "SMS Activate",
+        "url": "https://sms-activate.io/",
+        "icon": ""
+      },
+      {
+        "name": "Online UUID Generator",
+        "url": "https://www.uuidgenerator.net/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Uncategorized/Ball.jpg"
+      },
+      {
+        "name": "颜色选择器",
+        "url": "https://colorhunt.co",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Useful Tools - 实用工具",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "RR Org",
+        "url": "https://rrorg.cn/",
+        "icon": ""
+      },
+      {
+        "name": "ITELLYOU",
+        "url": "https://next.itellyou.cn/",
+        "icon": ""
+      },
+      {
+        "name": "OpenWRT.ai",
+        "url": "https://openwrt.ai",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Router & VPN/OpenWrt_C.png"
+      },
+      {
+        "name": "FinalShell",
+        "url": "https://www.hostbuf.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/FinalShell.png"
+      },
+      {
+        "name": "CloudDrive",
+        "url": "https://www.clouddrive2.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Self-Hosted Services/Clouddrive_A.png"
+      },
+      {
+        "name": "Xmind",
+        "url": "https://xmind.net",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Developer Tools - 开发工具",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/GitHub_A.png"
+      },
+      {
+        "name": "Docker Hub",
+        "url": "https://hub.docker.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/Docker.png"
+      },
+      {
+        "name": "VS Code",
+        "url": "https://code.visualstudio.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Vscode_A.png"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://www.cursor.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/AI/Cursor.png"
+      },
+      {
+        "name": "Iconfont",
+        "url": "https://www.iconfont.cn/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Uncategorized/Iconfont.png"
+      },
+      {
+        "name": "Xicons",
+        "url": "https://www.xicons.org/",
+        "icon": ""
+      },
+      {
+        "name": "Font Awesome",
+        "url": "https://fontawesome.com/icons",
+        "icon": ""
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/",
+        "icon": ""
+      },
+      {
+        "name": "字体天下",
+        "url": "https://www.fonts.net.cn/",
+        "icon": ""
+      },
+      {
+        "name": "Greasy Fork",
+        "url": "https://greasyfork.org/zh-CN/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Uncategorized/GreasyFork.png"
+      },
+      {
+        "name": "Google Fonts",
+        "url": "https://fonts.google.com",
+        "icon": ""
+      },
+      {
+        "name": "Codepen",
+        "url": "https://codepen.io",
+        "icon": ""
+      },
+      {
+        "name": "JSFiddle",
+        "url": "https://jsfiddle.net",
+        "icon": ""
+      },
+      {
+        "name": "Replit",
+        "url": "https://replit.com",
+        "icon": ""
+      },
+      {
+        "name": "Postman",
+        "url": "https://postman.com",
+        "icon": ""
+      },
+      {
+        "name": "Figma",
+        "url": "https://figma.com",
+        "icon": ""
+      },
+      {
+        "name": "Sketch",
+        "url": "https://sketch.com",
+        "icon": ""
+      },
+      {
+        "name": "InVision",
+        "url": "https://invisionapp.com",
+        "icon": ""
+      },
+      {
+        "name": "Zeplin",
+        "url": "https://zeplin.io",
+        "icon": ""
+      },
+      {
+        "name": "Framer",
+        "url": "https://framer.com",
+        "icon": ""
+      },
+      {
+        "name": "Webflow",
+        "url": "https://webflow.com",
+        "icon": ""
+      },
+      {
+        "name": "Squarespace",
+        "url": "https://squarespace.com",
+        "icon": ""
+      },
+      {
+        "name": "Wix",
+        "url": "https://wix.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Cloud Services - 云服务",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "AWS",
+        "url": "https://aws.amazon.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/AWS.png"
+      },
+      {
+        "name": "Google Cloud",
+        "url": "https://cloud.google.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Google_cloud_A.png"
+      },
+      {
+        "name": "Azure",
+        "url": "https://azure.microsoft.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Azure_A.png"
+      },
+      {
+        "name": "阿里云",
+        "url": "https://aliyun.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Aliyun.png"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.alipan.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Alidrive_A.png"
+      },
+      {
+        "name": "腾讯云",
+        "url": "https://cloud.tencent.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Tencent Cloud.png"
+      },
+      {
+        "name": "华为云",
+        "url": "https://huaweicloud.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Huawei Cloud.png"
+      },
+      {
+        "name": "天翼云",
+        "url": "https://www.ctyun.cn/",
+        "icon": ""
+      },
+      {
+        "name": "天翼云盘",
+        "url": "https://cloud.189.cn/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/189drive_A.png"
+      },
+      {
+        "name": "百度云",
+        "url": "https://cloud.baidu.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Baidu_A.png"
+      },
+      {
+        "name": "123网盘",
+        "url": "https://www.123pan.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/123Pan_A.png"
+      },
+      {
+        "name": "RackNerd",
+        "url": "https://www.racknerd.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/RackNerd.png"
+      },
+      {
+        "name": "UptimeRobot",
+        "url": "https://uptimerobot.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Uptimekuma_B.png"
+      },
+      {
+        "name": "Vultr",
+        "url": "https://vultr.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Vultr.png"
+      },
+      {
+        "name": "Cloudflare",
+        "url": "https://cloudflare.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Cloudflare.png"
+      },
+      {
+        "name": "Google Drive",
+        "url": "https://drive.google.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Googledrive_A.png"
+      },
+      {
+        "name": "OneDrive",
+        "url": "https://onedrive.live.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Onedrive_A.png"
+      },
+      {
+        "name": "iCloud",
+        "url": "https://icloud.com",
+        "icon": ""
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Baidudrive_B.png"
+      },
+      {
+        "name": "腾讯微云",
+        "url": "https://weiyun.com",
+        "icon": ""
+      },
+      {
+        "name": "115网盘",
+        "url": "https://115.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/115_B.png"
+      },
+      {
+        "name": "蓝奏云",
+        "url": "https://lanzoui.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Lanzouyun_D.png"
+      }
+    ]
+  },
+  {
+    "name": "App Hub - 应用中心",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "App Store",
+        "url": "https://apps.apple.com",
+        "icon": ""
+      },
+      {
+        "name": "Google Play",
+        "url": "https://play.google.com",
+        "icon": ""
+      },
+      {
+        "name": "华为应用市场",
+        "url": "https://appgallery.huawei.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Cloud Services/Huawei Cloud.png"
+      },
+      {
+        "name": "小米应用商店",
+        "url": "https://app.mi.com",
+        "icon": ""
+      },
+      {
+        "name": "OPPO软件商店",
+        "url": "https://store.oppomobile.com",
+        "icon": ""
+      },
+      {
+        "name": "vivo应用商店",
+        "url": "https://store.vivo.com.cn",
+        "icon": ""
+      },
+      {
+        "name": "腾讯应用宝",
+        "url": "https://sj.qq.com",
+        "icon": ""
+      },
+      {
+        "name": "360手机助手",
+        "url": "https://sj.360.cn",
+        "icon": ""
+      },
+      {
+        "name": "百度手机助手",
+        "url": "https://shouji.baidu.com",
+        "icon": ""
+      },
+      {
+        "name": "豌豆荚",
+        "url": "https://wandoujia.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/App Hub/豌豆夹.png"
+      },
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com",
+        "icon": ""
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://store.epicgames.com",
+        "icon": ""
+      },
+      {
+        "name": "Microsoft Store",
+        "url": "https://apps.microsoft.com",
+        "icon": ""
+      },
+      {
+        "name": "Chrome应用商店",
+        "url": "https://chrome.google.com/webstore",
+        "icon": ""
+      },
+      {
+        "name": "Firefox附加组件",
+        "url": "https://addons.mozilla.org",
+        "icon": ""
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "url": "https://adobe.com/creativecloud",
+        "icon": ""
+      },
+      {
+        "name": "Setapp",
+        "url": "https://setapp.com",
+        "icon": ""
+      },
+      {
+        "name": "APKPure",
+        "url": "https://apkpure.com",
+        "icon": ""
+      },
+      {
+        "name": "F-Droid",
+        "url": "https://f-droid.org",
+        "icon": ""
+      },
+      {
+        "name": "Mac软件之家",
+        "url": "https://www.macapp.so/",
+        "icon": ""
+      },
+      {
+        "name": "腾讯软件中心",
+        "url": "https://pc.qq.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "SocialFun - 社交娱乐",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com",
+        "icon": ""
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Twitter.jpeg"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": ""
+      },
+      {
+        "name": "Snapchat",
+        "url": "https://snapchat.com",
+        "icon": ""
+      },
+      {
+        "name": "Mastodon",
+        "url": "https://mastodon.social",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Mastodon_A.png"
+      },
+      {
+        "name": "微博",
+        "url": "https://weibo.com",
+        "icon": ""
+      },
+      {
+        "name": "豆瓣",
+        "url": "https://douban.com",
+        "icon": ""
+      },
+      {
+        "name": "番茄小说",
+        "url": "https://fanqienovel.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/FanQieNovel.png"
+      },
+      {
+        "name": "起点中文网",
+        "url": "https://www.qidian.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/QiDian.png"
+      },
+      {
+        "name": "TMDB",
+        "url": "https://www.themoviedb.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/oliver556/my-icons@gh-pages/icon/Media Streaming/TMDB_B.png"
+      },
+      {
+        "name": "小红书",
+        "url": "https://xiaohongshu.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/小红书.png"
+      },
+      {
+        "name": "快手",
+        "url": "https://kuaishou.com",
+        "icon": ""
+      },
+      {
+        "name": "抖音",
+        "url": "https://douyin.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Tiktok_A.png"
+      },
+      {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/ZhiHu.png"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Tiktok_A.png"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://web.telegram.org",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Telegram.jpeg"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/app",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Discord_A.png"
+      },
+      {
+        "name": "Slack",
+        "url": "https://slack.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Slack_A.png"
+      },
+      {
+        "name": "微信",
+        "url": "https://wx.qq.com",
+        "icon": ""
+      },
+      {
+        "name": "QQ",
+        "url": "https://im.qq.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/QQ_A.png"
+      },
+      {
+        "name": "Skype",
+        "url": "https://web.skype.com",
+        "icon": ""
+      },
+      {
+        "name": "Teams",
+        "url": "https://teams.microsoft.com",
+        "icon": ""
+      },
+      {
+        "name": "钉钉",
+        "url": "https://dingtalk.com",
+        "icon": ""
+      },
+      {
+        "name": "企业微信",
+        "url": "https://work.weixin.qq.com",
+        "icon": ""
+      },
+      {
+        "name": "飞书",
+        "url": "https://feishu.cn",
+        "icon": ""
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com",
+        "icon": ""
+      },
+      {
+        "name": "Signal",
+        "url": "https://signal.org",
+        "icon": ""
+      },
+      {
+        "name": "Viber",
+        "url": "https://viber.com",
+        "icon": ""
+      },
+      {
+        "name": "KakaoTalk",
+        "url": "https://www.kakaocorp.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Media Hub - 媒体中心",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "优酷视频",
+        "url": "https://www.youku.com/",
+        "icon": ""
+      },
+      {
+        "name": "爱奇艺",
+        "url": "https://www.iqiyi.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/iQIYI.png"
+      },
+      {
+        "name": "腾讯视频",
+        "url": "https://v.qq.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Tencent Video.png"
+      },
+      {
+        "name": "QQ Music",
+        "url": "https://y.qq.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/QQ Music.png"
+      },
+      {
+        "name": "Netflix",
+        "url": "https://netflix.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Netflix_A.png"
+      },
+      {
+        "name": "Spotify",
+        "url": "https://spotify.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Spotify_A.png"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://twitch.tv",
+        "icon": ""
+      },
+      {
+        "name": "Apple Music",
+        "url": "https://music.apple.com",
+        "icon": ""
+      },
+      {
+        "name": "Amazon Prime",
+        "url": "https://primevideo.com",
+        "icon": ""
+      },
+      {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Bilibili.png"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Youtube.png"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://disneyplus.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/Social & Entertainment/Disney+.png"
+      },
+      {
+        "name": "HBO Max",
+        "url": "https://hbomax.com",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/HDIcons-Borderradius/Hbomax_A.png"
+      },
+      {
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com",
+        "icon": ""
+      },
+      {
+        "name": "Pandora",
+        "url": "https://pandora.com",
+        "icon": ""
+      },
+      {
+        "name": "Tidal",
+        "url": "https://tidal.com",
+        "icon": ""
+      },
+      {
+        "name": "Vimeo",
+        "url": "https://vimeo.com",
+        "icon": ""
+      },
+      {
+        "name": "Dailymotion",
+        "url": "https://dailymotion.com",
+        "icon": ""
+      },
+      {
+        "name": "Tumblr",
+        "url": "https://tumblr.com",
+        "icon": ""
+      },
+      {
+        "name": "Reddit",
+        "url": "https://reddit.com",
+        "icon": ""
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://pinterest.com",
+        "icon": ""
+      },
+      {
+        "name": "Flickr",
+        "url": "https://flickr.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "PT Sites - 私有PT站",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "Audiences",
+        "url": "https://audiences.me/torrents.php",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/Audiences.png"
+      },
+      {
+        "name": "M-Team",
+        "url": "https://kp.m-team.cc",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/M-Team.png"
+      },
+      {
+        "name": "KeepFRDS",
+        "url": "https://pt.keepfrds.com/torrents.php",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/FRDS.png"
+      },
+      {
+        "name": "Hhanclub",
+        "url": "https://hhanclub.top/",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/HHCLUB.png"
+      },
+      {
+        "name": "HDChina",
+        "url": "https://hdchina.org",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/HDChina.png"
+      },
+      {
+        "name": "CHDBits",
+        "url": "https://chdbits.co",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/CHDBits.png"
+      },
+      {
+        "name": "TTG",
+        "url": "https://totheglory.im",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/TTG.png"
+      },
+      {
+        "name": "HDHome",
+        "url": "https://hdhome.org",
+        "icon": "https://cdn.jsdelivr.net/gh/GWen124/MyIcons@Web/icon/PT/HDHome.png"
+      }
+    ]
+  },
+  {
+    "name": "Finance - 财富中心",
+    "hidden": true,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "中国工商银行",
+        "url": "https://icbc.com.cn",
+        "icon": ""
+      },
+      {
+        "name": "中国建设银行",
+        "url": "https://ccb.com",
+        "icon": ""
+      },
+      {
+        "name": "中国农业银行",
+        "url": "https://abchina.com",
+        "icon": ""
+      },
+      {
+        "name": "中国银行",
+        "url": "https://boc.cn",
+        "icon": ""
+      },
+      {
+        "name": "交通银行",
+        "url": "https://bankcomm.com",
+        "icon": ""
+      },
+      {
+        "name": "招商银行",
+        "url": "https://cmbchina.com",
+        "icon": ""
+      },
+      {
+        "name": "中国邮政储蓄银行",
+        "url": "https://psbc.com",
+        "icon": ""
+      },
+      {
+        "name": "中国光大银行",
+        "url": "https://cebbank.com",
+        "icon": ""
+      },
+      {
+        "name": "中国民生银行",
+        "url": "https://cmbc.com.cn",
+        "icon": ""
+      },
+      {
+        "name": "浦发银行",
+        "url": "https://spdb.com.cn",
+        "icon": ""
+      },
+      {
+        "name": "支付宝",
+        "url": "https://alipay.com",
+        "icon": ""
+      },
+      {
+        "name": "微信支付",
+        "url": "https://pay.weixin.qq.com",
+        "icon": ""
+      },
+      {
+        "name": "网商银行",
+        "url": "https://mybank.cn",
+        "icon": ""
+      },
+      {
+        "name": "微众银行",
+        "url": "https://webank.com",
+        "icon": ""
+      },
+      {
+        "name": "京东钱包",
+        "url": "https://jr.jd.com",
+        "icon": ""
+      },
+      {
+        "name": "云闪付",
+        "url": "https://unionpay.com",
+        "icon": ""
+      },
+      {
+        "name": "蚂蚁财富",
+        "url": "https://fund.ant.group",
+        "icon": ""
+      },
+      {
+        "name": "PayPal",
+        "url": "https://www.paypal.com/",
+        "icon": ""
+      },
+      {
+        "name": "理财通",
+        "url": "https://licaitong.qq.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Daily Life - 日常生活",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "Amazon",
+        "url": "https://amazon.com",
+        "icon": ""
+      },
+      {
+        "name": "淘宝",
+        "url": "https://taobao.com",
+        "icon": ""
+      },
+      {
+        "name": "天猫",
+        "url": "https://tmall.com",
+        "icon": ""
+      },
+      {
+        "name": "京东",
+        "url": "https://jd.com",
+        "icon": ""
+      },
+      {
+        "name": "拼多多",
+        "url": "https://pinduoduo.com",
+        "icon": ""
+      },
+      {
+        "name": "美团",
+        "url": "https://meituan.com",
+        "icon": ""
+      },
+      {
+        "name": "饿了么",
+        "url": "https://ele.me",
+        "icon": ""
+      },
+      {
+        "name": "美团外卖",
+        "url": "https://waimai.meituan.com",
+        "icon": ""
+      },
+      {
+        "name": "eBay",
+        "url": "https://ebay.com",
+        "icon": ""
+      },
+      {
+        "name": "AliExpress",
+        "url": "https://aliexpress.com",
+        "icon": ""
+      },
+      {
+        "name": "Shopify",
+        "url": "https://shopify.com",
+        "icon": ""
+      },
+      {
+        "name": "WooCommerce",
+        "url": "https://woocommerce.com",
+        "icon": ""
+      },
+      {
+        "name": "Shopee",
+        "url": "https://shopee.com",
+        "icon": ""
+      },
+      {
+        "name": "Lazada",
+        "url": "https://lazada.com",
+        "icon": ""
+      },
+      {
+        "name": "Wish",
+        "url": "https://wish.com",
+        "icon": ""
+      },
+      {
+        "name": "Etsy",
+        "url": "https://etsy.com",
+        "icon": ""
+      },
+      {
+        "name": "MercadoLibre",
+        "url": "https://mercadolibre.com",
+        "icon": ""
+      },
+      {
+        "name": "Flipkart",
+        "url": "https://flipkart.com",
+        "icon": ""
+      },
+      {
+        "name": "Rakuten",
+        "url": "https://rakuten.com",
+        "icon": ""
+      },
+      {
+        "name": "Zalando",
+        "url": "https://zalando.com",
+        "icon": ""
+      },
+      {
+        "name": "ASOS",
+        "url": "https://asos.com",
+        "icon": ""
+      },
+      {
+        "name": "H&M",
+        "url": "https://hm.com",
+        "icon": ""
+      },
+      {
+        "name": "Zara",
+        "url": "https://zara.com",
+        "icon": ""
+      },
+      {
+        "name": "Uniqlo",
+        "url": "https://uniqlo.com",
+        "icon": ""
+      },
+      {
+        "name": "Nike",
+        "url": "https://nike.com",
+        "icon": ""
+      },
+      {
+        "name": "Adidas",
+        "url": "https://adidas.com",
+        "icon": ""
+      },
+      {
+        "name": "Puma",
+        "url": "https://puma.com",
+        "icon": ""
+      },
+      {
+        "name": "Under Armour",
+        "url": "https://underarmour.com",
+        "icon": ""
+      },
+      {
+        "name": "New Balance",
+        "url": "https://newbalance.com",
+        "icon": ""
+      },
+      {
+        "name": "Converse",
+        "url": "https://converse.com",
+        "icon": ""
+      },
+      {
+        "name": "Vans",
+        "url": "https://vans.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "News Hub - 新闻资讯",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "新华网",
+        "url": "https://xinhuanet.com",
+        "icon": ""
+      },
+      {
+        "name": "央视网",
+        "url": "https://cctv.com",
+        "icon": ""
+      },
+      {
+        "name": "中国新闻网",
+        "url": "https://chinanews.com",
+        "icon": ""
+      },
+      {
+        "name": "澎湃新闻",
+        "url": "https://thepaper.cn",
+        "icon": ""
+      },
+      {
+        "name": "界面新闻",
+        "url": "https://jiemian.com",
+        "icon": ""
+      },
+      {
+        "name": "财新网",
+        "url": "https://caixin.com",
+        "icon": ""
+      },
+      {
+        "name": "36氪",
+        "url": "https://36kr.com",
+        "icon": ""
+      },
+      {
+        "name": "虎嗅网",
+        "url": "https://huxiu.com",
+        "icon": ""
+      },
+      {
+        "name": "钛媒体",
+        "url": "https://tmtpost.com",
+        "icon": ""
+      },
+      {
+        "name": "凤凰网",
+        "url": "https://ifeng.com",
+        "icon": ""
+      },
+      {
+        "name": "新浪新闻",
+        "url": "https://news.sina.com.cn",
+        "icon": ""
+      },
+      {
+        "name": "网易新闻",
+        "url": "https://news.163.com",
+        "icon": ""
+      },
+      {
+        "name": "腾讯新闻",
+        "url": "https://news.qq.com",
+        "icon": ""
+      },
+      {
+        "name": "搜狐新闻",
+        "url": "https://news.sohu.com",
+        "icon": ""
+      },
+      {
+        "name": "今日头条",
+        "url": "https://toutiao.com",
+        "icon": ""
+      },
+      {
+        "name": "环球网",
+        "url": "https://huanqiu.com",
+        "icon": ""
+      },
+      {
+        "name": "观察者网",
+        "url": "https://guancha.cn",
+        "icon": ""
+      },
+      {
+        "name": "BBC",
+        "url": "https://bbc.com",
+        "icon": ""
+      },
+      {
+        "name": "CNN",
+        "url": "https://cnn.com",
+        "icon": ""
+      },
+      {
+        "name": "Reuters",
+        "url": "https://reuters.com",
+        "icon": ""
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com",
+        "icon": ""
+      },
+      {
+        "name": "New York Times",
+        "url": "https://nytimes.com",
+        "icon": ""
+      },
+      {
+        "name": "Washington Post",
+        "url": "https://washingtonpost.com",
+        "icon": ""
+      },
+      {
+        "name": "Wall Street Journal",
+        "url": "https://wsj.com",
+        "icon": ""
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://ft.com",
+        "icon": ""
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://bloomberg.com",
+        "icon": ""
+      },
+      {
+        "name": "Forbes",
+        "url": "https://forbes.com",
+        "icon": ""
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
+        "icon": ""
+      },
+      {
+        "name": "Wired",
+        "url": "https://wired.com",
+        "icon": ""
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com",
+        "icon": ""
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com",
+        "icon": ""
+      },
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com",
+        "icon": ""
+      },
+      {
+        "name": "Mashable",
+        "url": "https://mashable.com",
+        "icon": ""
+      },
+      {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com",
+        "icon": ""
+      },
+      {
+        "name": "CNET",
+        "url": "https://cnet.com",
+        "icon": ""
+      },
+      {
+        "name": "ZDNet",
+        "url": "https://zdnet.com",
+        "icon": ""
+      },
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Other - 其他",
+    "hidden": false,
+    "requireAuth": false,
+    "sites": [
+      {
+        "name": "Google Drive",
+        "url": "https://drive.google.com",
+        "icon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"
+      },
+      {
+        "name": "Logseq",
+        "url": "https://logseq.com",
+        "icon": ""
+      },
+      {
+        "name": "Bear",
+        "url": "https://bear.app",
+        "icon": ""
+      },
+      {
+        "name": "Ulysses",
+        "url": "https://ulysses.app",
+        "icon": ""
+      },
+      {
+        "name": "Scrivener",
+        "url": "https://literatureandlatte.com",
+        "icon": ""
+      },
+      {
+        "name": "Typora",
+        "url": "https://typora.io",
+        "icon": ""
+      },
+      {
+        "name": "Zettlr",
+        "url": "https://zettlr.com",
+        "icon": ""
+      },
+      {
+        "name": "Joplin",
+        "url": "https://joplinapp.org",
+        "icon": ""
+      },
+      {
+        "name": "Standard Notes",
+        "url": "https://standardnotes.com",
+        "icon": ""
+      },
+      {
+        "name": "Simplenote",
+        "url": "https://simplenote.com",
+        "icon": ""
+      }
+    ]
+  }
+]
