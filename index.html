@@ -73,52 +73,14 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- 立即应用字体和背景配置 -->
+    <!-- 立即应用字体配置，避免字体闪烁 -->
     <script>
-      // 页面加载时立即应用背景和字体
-      (function() {
-        // 优先级：缓存壁纸 > 自定义背景 > 白色背景
-        try {
-          // 1. 优先尝试恢复上一次的壁纸（避免刷新留白）
-          const lastWallpaper = localStorage.getItem('navhub_last_wallpaper');
-          if (lastWallpaper) {
-            document.body.style.backgroundImage = 'url("' + lastWallpaper + '")';
-            document.body.style.backgroundSize = 'cover';
-            document.body.style.backgroundPosition = 'center';
-            document.body.style.backgroundRepeat = 'no-repeat';
-            document.body.style.backgroundAttachment = 'fixed';
-            return; // 有缓存就直接返回
-          }
-          
-          // 2. 没有缓存，尝试显示自定义背景（首次访问时的过渡）
-          // 这个路径从 config.yml 中读取，需要与配置保持一致
-          const customBg = 'images/Sonoma-Dark.jpg';
-          if (customBg) {
-            // 预加载图片，确保存在后再显示
-            const img = new Image();
-            img.onload = function() {
-              document.body.style.backgroundImage = 'url("' + customBg + '")';
-              document.body.style.backgroundSize = 'cover';
-              document.body.style.backgroundPosition = 'center';
-              document.body.style.backgroundRepeat = 'no-repeat';
-              document.body.style.backgroundAttachment = 'fixed';
-            };
-            img.onerror = function() {
-              // 图片加载失败，保持白色背景
-            };
-            img.src = customBg;
-          }
-          // 3. 如果都没有，保持白色背景（已在CSS中设置）
-        } catch (e) {
-          // 忽略错误，保持白色背景
-        }
-      })();
-      
-      // 应用字体配置
+      // 页面加载时立即应用字体，不等待 Vue 组件
       document.addEventListener('DOMContentLoaded', function() {
+        // 立即设置字体变量，避免字体闪烁
         const root = document.documentElement;
         
-        // 设置默认字体变量
+        // 设置默认字体变量（基于 config.yml 中的配置）
         root.style.setProperty('--header-font-family', 'AnJingChenXinShouJinTi, brand, system-ui, sans-serif');
         root.style.setProperty('--header-font-b-family', 'brand, system-ui, sans-serif');
         root.style.setProperty('--category-font-family', 'SanJiZhengYaHei-ZhongCu, Arial, sans-serif');
@@ -130,7 +92,7 @@
     <style>
       /* 关键CSS - 加快首屏渲染 */
       html, body {
-        background-color: #ffffff;
+        background-color: transparent;
         margin: 0;
         padding: 0;
         overflow-x: hidden;
@@ -183,11 +145,11 @@
         -ms-overflow-style: none !important;
       }
     </style>
-    <script type="module" crossorigin src="./assets/index-BL8hFALO.js"></script>
+    <script type="module" crossorigin src="./assets/index-Dn3zy9i4.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/vue-VfIQ-maY.js">
     <link rel="modulepreload" crossorigin href="./assets/pinia-CIJx0O4r.js">
     <link rel="modulepreload" crossorigin href="./assets/icons-fa-CDOyga04.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-DVKDmhvF.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-PhWlYV_c.css">
     <link rel="stylesheet" crossorigin href="./assets/font-awesome-MlFFXzMD.css">
   </head>
   <body>
