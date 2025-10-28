@@ -73,14 +73,43 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- 立即应用字体配置，避免字体闪烁 -->
+    <!-- 立即应用字体和背景配置 -->
     <script>
-      // 页面加载时立即应用字体，不等待 Vue 组件
+      // 页面加载时立即应用背景和字体
+      (function() {
+        // 1. 优先尝试恢复上一次的壁纸（避免刷新留白）
+        try {
+          const lastWallpaper = localStorage.getItem('navhub_last_wallpaper');
+          if (lastWallpaper) {
+            document.body.style.backgroundImage = 'url("' + lastWallpaper + '")';
+            document.body.style.backgroundSize = 'cover';
+            document.body.style.backgroundPosition = 'center';
+            document.body.style.backgroundRepeat = 'no-repeat';
+            document.body.style.backgroundAttachment = 'fixed';
+            return; // 如果有缓存，直接返回
+          }
+        } catch (e) {
+          // 忽略错误
+        }
+        
+        // 2. 如果没有缓存，尝试使用自定义背景
+        // 注意：这里硬编码了默认背景路径，如果需要动态加载需要从配置读取
+        const customBg = 'images/Sonoma-Dark.jpg';
+        if (customBg) {
+          document.body.style.backgroundImage = 'url("' + customBg + '")';
+          document.body.style.backgroundSize = 'cover';
+          document.body.style.backgroundPosition = 'center';
+          document.body.style.backgroundRepeat = 'no-repeat';
+          document.body.style.backgroundAttachment = 'fixed';
+        }
+        // 3. 如果都没有，保持白色背景（已在CSS中设置）
+      })();
+      
+      // 应用字体配置
       document.addEventListener('DOMContentLoaded', function() {
-        // 立即设置字体变量，避免字体闪烁
         const root = document.documentElement;
         
-        // 设置默认字体变量（基于 config.yml 中的配置）
+        // 设置默认字体变量
         root.style.setProperty('--header-font-family', 'AnJingChenXinShouJinTi, brand, system-ui, sans-serif');
         root.style.setProperty('--header-font-b-family', 'brand, system-ui, sans-serif');
         root.style.setProperty('--category-font-family', 'SanJiZhengYaHei-ZhongCu, Arial, sans-serif');
@@ -92,7 +121,7 @@
     <style>
       /* 关键CSS - 加快首屏渲染 */
       html, body {
-        background-color: transparent;
+        background-color: #ffffff;
         margin: 0;
         padding: 0;
         overflow-x: hidden;
@@ -145,7 +174,7 @@
         -ms-overflow-style: none !important;
       }
     </style>
-    <script type="module" crossorigin src="./assets/index-Ba2OXEep.js"></script>
+    <script type="module" crossorigin src="./assets/index-DPF_2wPY.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/vue-VfIQ-maY.js">
     <link rel="modulepreload" crossorigin href="./assets/pinia-CIJx0O4r.js">
     <link rel="modulepreload" crossorigin href="./assets/icons-fa-CDOyga04.js">
