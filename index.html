@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="description" content="个人导航站 - 快速访问常用网站">
+    
+    <!-- 性能优化 -->
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://api.github.com">
+    
+    <title>NavHub</title>
+    
+    <!-- 预加载字体，避免字体闪烁 -->
+    <link rel="preload" href="./fonts/AnJingChenXinShouJinTi.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/brand.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-Cu.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-ZhongCu.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="./fonts/SanJiZhengYaHei-Xi.ttf" as="font" type="font/ttf" crossorigin>
+    
+    <!-- 预定义字体样式，避免 FOUT -->
+    <style>
+      @font-face {
+        font-family: 'AnJingChenXinShouJinTi';
+        src: url('fonts/AnJingChenXinShouJinTi.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap; /* 使用swap加快首屏显示 */
+      }
+      @font-face {
+        font-family: 'brand';
+        src: url('fonts/brand.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-Cu';
+        src: url('fonts/SanJiZhengYaHei-Cu.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-ZhongCu';
+        src: url('fonts/SanJiZhengYaHei-ZhongCu.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SanJiZhengYaHei-Xi';
+        src: url('fonts/SanJiZhengYaHei-Xi.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      
+      /* 预设字体变量，避免字体闪烁 */
+      :root {
+        --header-font-family: 'AnJingChenXinShouJinTi', 'brand', system-ui, sans-serif;
+        --header-font-b-family: 'brand', system-ui, sans-serif;
+        --category-font-family: 'SanJiZhengYaHei-ZhongCu', 'Arial', sans-serif;
+        --site-font-family: 'SanJiZhengYaHei-Xi', 'Arial', sans-serif;
+        --footer-font-family: 'brand', system-ui, sans-serif;
+        --sidebar-font-family: 'SanJiZhengYaHei-ZhongCu', system-ui, sans-serif;
+      }
+    </style>
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- 立即应用字体配置，避免字体闪烁 -->
+    <script>
+      // 页面加载时立即应用字体，不等待 Vue 组件
+      document.addEventListener('DOMContentLoaded', function() {
+        // 立即设置字体变量，避免字体闪烁
+        const root = document.documentElement;
+        
+        // 设置默认字体变量（基于 config.yml 中的配置）
+        root.style.setProperty('--header-font-family', 'AnJingChenXinShouJinTi, brand, system-ui, sans-serif');
+        root.style.setProperty('--header-font-b-family', 'brand, system-ui, sans-serif');
+        root.style.setProperty('--category-font-family', 'SanJiZhengYaHei-ZhongCu, Arial, sans-serif');
+        root.style.setProperty('--site-font-family', 'SanJiZhengYaHei-Xi, Arial, sans-serif');
+        root.style.setProperty('--footer-font-family', 'brand, system-ui, sans-serif');
+        root.style.setProperty('--sidebar-font-family', 'SanJiZhengYaHei-ZhongCu, system-ui, sans-serif');
+      });
+    </script>
+    <style>
+      /* 关键CSS - 加快首屏渲染 */
+      html, body {
+        background-color: transparent;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+      }
+      
+      /* 首屏loading优化 */
+      #app {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      /* 骨架屏 - 避免首屏白屏 */
+      .app-skeleton {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        z-index: 9999;
+      }
+      
+      .skeleton-loader {
+        width: 50px;
+        height: 50px;
+        border: 4px solid rgba(255, 255, 255, 0.3);
+        border-top-color: white;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+      
+      /* 滚动条样式 - 完全隐藏，保留滚动功能 */
+      ::-webkit-scrollbar {
+        width: 0px !important;
+        display: none !important;
+      }
+      
+      html {
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+      }
+      
+      body {
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-BcMMlV_k.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/vue-VfIQ-maY.js">
+    <link rel="modulepreload" crossorigin href="./assets/pinia-CIJx0O4r.js">
+    <link rel="modulepreload" crossorigin href="./assets/icons-fa-CDOyga04.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-DXNtGU9O.css">
+    <link rel="stylesheet" crossorigin href="./assets/font-awesome-MlFFXzMD.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
