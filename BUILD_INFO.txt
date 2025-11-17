@@ -1,5 +1,5 @@
-Build Time: 2025-11-07 11:20:25 UTC
+Build Time: 2025-11-17 16:27:12 UTC
 Source: GWen124/NavHub@main
 Built by: GWen124/Actions-Sync-and-Update
 Target Branch: NavHub
-Custom domain: nav.gw124.top
+Custom domain: nav.gw124.com
